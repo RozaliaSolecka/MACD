@@ -1,5 +1,5 @@
 # MACD stock index
-> The application was prepared for the subject Numerical Methods. 
+> The program was prepared for the subject Numerical Methods. 
 ## Table of contents
 * [About The Project](#about-the-project)
 * [Technologies](#technologies)
